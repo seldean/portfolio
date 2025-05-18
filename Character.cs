@@ -1,3 +1,8 @@
+///
+/// This code is old and depricated. May need optimization and rework on it.
+/// Wrote by Sertan Balta
+///
+
 using System;
 using System.Collections;
 using System.Collections.Generic;
