@@ -1,5 +1,6 @@
 ///
-/// This file is old and needs optimization and rework.
+/// This file is old/depricated, needs optimization and rework.
+/// Wrote by Sertan Balta
 ///
 
 using System;
